@@ -1,0 +1,24 @@
+delete from fc_activity where 1;
+Alter table fc_activity auto_increment = 0;
+
+delete from fc_company where 1;
+Alter table fc_company auto_increment = 0;
+
+delete from fc_documents where 1;
+Alter table fc_documents auto_increment = 0;
+
+delete from fc_items where 1;
+Alter table fc_items auto_increment = 0;
+
+delete from fc_itemsxdocuments where 1;
+Alter table fc_itemsxdocuments auto_increment = 0;
+
+delete from fc_products where 1;
+Alter table fc_products auto_increment = 0;
+
+delete from fc_users where 1;
+Alter table fc_users auto_increment = 0;
+
+delete from fc_config where 1;
+
+update fc_cards set amount = 1000 where 1

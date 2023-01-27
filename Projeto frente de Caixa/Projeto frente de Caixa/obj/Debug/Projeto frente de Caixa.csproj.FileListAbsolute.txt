@@ -1,0 +1,500 @@
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+F:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmSearchProduct.resources
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmSearchProduct.resources
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppinGetCPF.resources
+C:\Users\Vitongovisk\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmSearchProduct.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppinGetCPF.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+C:\Users\v_cam\OneDrive\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmSearchProduct.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppinGetCPF.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+D:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmSearchProduct.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppinGetCPF.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+C:\Users\Vitongovisk\OneDrive\Documentos\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewProducts.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingSearchProduct.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingGetCPF.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeAddProduct.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmProductDetails.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeAddProduct.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewProducts.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmProductDetails.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingSearchProduct.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingGetCPF.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryNewPassword.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryNewPassword.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdmUpdateProduct.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\GenCode128.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Drawing.Common.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdmUpdateProduct.resources
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\GenCode128.dll
+E:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Drawing.Common.dll
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewEntrys.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Categories.FrmAdministrativeAddCategory.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Categories.FrmAdministrativeViewCategories.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompany.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompanyAdress.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdminstrativeViewCompany.resources
+D:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeAddUser.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\GenCode128.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Drawing.Common.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompany.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompanyAdress.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdminstrativeViewCompany.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeAddProduct.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewEntrys.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewProducts.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmProductDetails.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeAddUser.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeViewUsers.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryNewPassword.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingSearchProduct.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingGetCPF.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingPaymentValidations.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingKeyboard.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmShoppingPayment.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingCanceled.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingInvalidPayment.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingValidPayment.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Entrys.FrmAdministrativeAddEntry.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.ResolveComReference.cache
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeUserDetails.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeCreateNewAdminUser.resources
+P:\~PFC\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeRegisterCompany.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\GenCode128.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Drawing.Common.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.ResolveComReference.cache
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompany.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompanyAdress.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdminstrativeViewCompany.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Entrys.FrmAdministrativeAddEntry.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeCreateNewAdminUser.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewEntrys.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeRegisterCompany.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewProducts.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeAddProduct.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmProductDetails.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeUserDetails.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingCanceled.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingInvalidPayment.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingKeyboard.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmShoppingPayment.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeAddUser.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeViewUsers.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryNewPassword.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingPaymentValidations.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingSearchProduct.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingGetCPF.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingValidPayment.resources
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+P:\~PFC\Software\Software\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.AssemblyReference.cache
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.SuggestedBindingRedirects.cache
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.ResolveComReference.cache
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.FrmModes.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.Properties.Resources.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompany.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdministrativeAddCompanyAdress.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Company.FrmAdminstrativeViewCompany.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Entrys.FrmAdministrativeAddEntry.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeCreateNewAdminUser.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeMain.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewEntrys.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeRegisterCompany.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeViewProducts.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmAdministrativeAddProduct.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmProductDetails.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeUserDetails.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingCanceled.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingInvalidPayment.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingKeyboard.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Products.FrmShoppingPayment.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeAddUser.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Users.FrmAdministrativeViewUsers.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmLogin.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryEmail.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryCode.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.FrmPasswordRecoveryNewPassword.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingPaymentValidations.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingSearchProduct.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingGetCPF.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingMain.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingStartSession.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.GenerateResource.cache
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CoreCompileInputs.cache
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.exe
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.pdb
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe.config
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.exe
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Projeto frente de Caixa.pdb
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\GenCode128.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\kfcCustomControls.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Drawing.Common.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Ubiety.Dns.Core.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\ZstdNet.dll
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\BouncyCastle.Crypto.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.pdb
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\Google.Protobuf.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\K4os.Hash.xxHash.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\MySql.Data.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Buffers.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Memory.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Numerics.Vectors.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto frente de Caixa.csproj.CopyComplete
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Storage.FrmAdministrativeViewStorage.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Sales.FrmAdministrativeViewSales.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.Configuration.FrmAdministrativeConfig.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmAdministrativeFirstConfig.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Administrator.FrmResetPassword.resources
+P:\~PFC\Software\Projeto frente de Caixa\Projeto frente de Caixa\obj\Debug\Projeto_frente_de_Caixa.View.Shopping.FrmShoppingSaleDocument.resources

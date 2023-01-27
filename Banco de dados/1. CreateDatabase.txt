@@ -1,0 +1,2 @@
+Drop Database FrenteCaixa;
+Create Database FrenteCaixa;
